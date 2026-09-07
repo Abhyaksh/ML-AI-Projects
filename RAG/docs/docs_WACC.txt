@@ -1,0 +1,31 @@
+GODREJ CONSUMER PRODUCTS LTD
+  (GODREJCP | BSE Code: 532424)
+Weighted Average Cost of Capital- GODREJ CONSUMER PRODUCTS LTD
+All figures are in INR unless stated otherwise.
+Peer Comps
+Debt/ | Debt/ | Levered | Unlevered
+Name | Country | Total Debt | Total Equity | Tax Rate 1 | Equity | Capital | Beta 2 | Beta 3
+Godrej Consumer | India | 3222.2 | 136678 | 0.3 | 0.023575118160932995 | 0.023032132906171683 | 0.74 | 0.7279863451258782
+Dabur India | India | 1365.09 | 101269.87 | 0.3 | 0.013479725015940082 | 0.01330043875887904 | 0.690292209817012 | 0.6838396306932888
+Emami | India | 93.95 | 30592.1 | 0.3 | 0.003071054291794287 | 0.0030616517929156735 | 0.41363446043263175 | 0.41274716217196183
+Jyothy Labs | India | 50.56 | 18804.75 | 0.3 | 0.0026886823807814515 | 0.0026814727522379636 | 0.5825531653092615 | 0.5814588146601727
+Bajaj Consumer | India | 8.75 | 3269.69 | 0.3 | 0.002676094675642033 | 0.002668952306584839 | 0.47654061646755935 | 0.47564959811766355
+Average | 0.3 | 0.005478889091039463 | 0.005428128902654379 | 0.5407551130066162 | 0.5384238014107717
+Median | 0.3 | 0.002879868336287869 | 0.0028715622725768186 | 0.5295468908884104 | 0.5285542063889181
+Cost of Debt | Cost of Equity
+Pre-tax Cost of Debt | 0.09620756005213829 | Risk Free Rate | 0.06946
+Tax Rate | 0.3 | Equity Risk Premium | 0.09824
+After Tax Cost of Debt | 0.06734529203649679 | Levered Beta 4 | 0.6862550526083387
+Cost of Equity | 0.1368776963682432
+Capital Structure | Levered Beta 
+Current | Target | Comps Median Unlevered Beta | 0.5285542063889181
+Total Debt | 3222.2 | 0.023032132906171683 | 0.005428128902654379 | Target Debt/ Equity   | 0.005457754296494768
+Market Capitalization | 136678 | 0.9769678670938282 | 0.9945718710973456 | Tax Rate | 0.3
+Total Capitalization | 139900.2 | 1 | 1 | Levered Beta | 0.6862550526083387
+Debt / Equity | 0.023575118160932995 | 0.005457754296494768 | Weighted Average Cost of Capital
+1. Tax Rate considered as Marginal Tax Rate for the country | Cost of Equity | 0.1368776963682432
+2. Levered Beta is based on 5 year monthly data | Equity Weight | 0.9945718710973456
+3. Unlevered Beta = Levered Beta/(1+(1-Tax Rate) x Debt/Equity)
+3. Levered Beta = Unlevered Beta/(1+(1-Tax Rate) x Debt/Equity) | Cost of Debt | 0.06734529203649679
+Debt Weight | 0.005428128902654379
+WACC | 0.136500265514619
