@@ -1,0 +1,11 @@
+Cost of Debt  | Cost of Equity
+Total Debt | 225540.8 | Risk Free Rate | 0.0677
+Interest  | 22648.0 | Equity Risk Premium | 0.09830000000000001
+Tax Rate | 0.25 | Levered Beta 4 | 0.78
+Cost of Debt (Post Tax) | 0.07531231599781503 | Cost of Equity | 0.144374
+WACC
+Total Debt | 225540.8
+Total Equity  | 920384.3220000002
+Equity as a % of Capital Structure | 0.8031801592704763
+Debt as % a of Capital Structure | 0.19681984072952374
+WACC | 0.13078129035417727
